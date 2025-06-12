@@ -1,7 +1,10 @@
 #! /usr/bin/env bash
+# Copyright (c) 2019 Sebastián Ramírez
+# Copyright (c) 2019 boomxy
+# SPDX-License-Identifier: MIT
 
 set -e
-#set -x
+set -x
 
 if [ -n `realpath` ]; then
   PYTHONPATH=$(dirname $(dirname "$(realpath "$0")"))
