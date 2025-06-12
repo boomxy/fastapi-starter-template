@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 from fastapi.encoders import jsonable_encoder
 from sqlmodel import Session
 

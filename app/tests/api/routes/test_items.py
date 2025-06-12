@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 import uuid
 
 from fastapi.testclient import TestClient

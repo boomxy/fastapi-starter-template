@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 from sqlmodel import Session, create_engine, select
 
 from app import crud

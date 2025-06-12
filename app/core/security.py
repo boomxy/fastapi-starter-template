@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 from datetime import datetime, timedelta, timezone
 from typing import Any
 

@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 from unittest.mock import patch
 
 from fastapi.testclient import TestClient

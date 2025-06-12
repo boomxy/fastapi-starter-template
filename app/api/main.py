@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 from fastapi import APIRouter
 
 from app.api.routes import items, login, private, users, utils

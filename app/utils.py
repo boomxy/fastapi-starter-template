@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 import logging
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone

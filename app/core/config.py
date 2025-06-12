@@ -1,3 +1,5 @@
+# Copyright (c) 2019 Sebastián Ramírez
+# SPDX-License-Identifier: MIT
 import secrets
 import warnings
 from typing import Annotated, Any, Literal
